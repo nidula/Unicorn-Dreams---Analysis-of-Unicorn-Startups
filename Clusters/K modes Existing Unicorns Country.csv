@@ -11,8 +11,8 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 0,Multiple Investors,China
 0,SRAM & MRAM,United Kingdom
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Switzerland
 1,T. Rowe Price,United States
 1,CrowdStrike Falcon Fund,United States
@@ -24,16 +24,16 @@ Cluster,Lead Investors Include,Country
 1,Tiger Global Management,United States
 0,Spark Capital,Canada
 1,D1 Capital Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Singapore
 0,Multiple Investors,Bermuda
 1,TPG,United States
-1,Multiple Investors,United States
-0,SoftBank Vision Fund,Germany
+3,Multiple Investors,United States
+1,SoftBank Vision Fund,Germany
 0,Multiple Investors,Israel
 0,Xiaomi,China
 0,Tiantu Capital,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,HubSpot Ventures,France
 1,G Squared,United States
 0,Mastercard,The Netherlands
@@ -50,7 +50,7 @@ Cluster,Lead Investors Include,Country
 1,Lone Pine Capital,United States
 0,Multiple Investors,China
 0,YF Capital,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Sailing Capital,United States
 1,Bond,United States
 1,General Atlantic,United States
@@ -62,18 +62,18 @@ Cluster,Lead Investors Include,Country
 1,Kohlberg Kravis Roberts,United States
 1,SoftBank Vision Fund,United States
 1,Valor Equity Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 0,NEOM,Hong Kong
 0,Multiple Investors,France
 1,Google,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Temasek Holdings,United States
 2,Tiger Global Management,India
 1,Insight Partners,United States
 1,Bain Capital Ventures,United States
 1,Caisse de Depot et Placement du Quebec,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Ontario Teachers' Pension Plan,Canada
 1,Salesforce Ventures,United States
 1,Charlesbank Capital Partners,United States
@@ -87,8 +87,8 @@ Cluster,Lead Investors Include,Country
 0,Canada Pension Plan Investment Board,United Kingdom
 0,Temasek Holdings,China
 1,General Atlantic,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Charoen Pokphand Group,Thailand
 1,Advent International,United States
 0,Vista Equity Partners,Canada
@@ -97,22 +97,22 @@ Cluster,Lead Investors Include,Country
 0,Yunhao Capital,China
 1,ION Crossover Partners,United States
 1,Alpha Wave Global,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Coatue,United States
 1,Baker Hughes,United States
 1,Robert Downey Jr.,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,SoftBank Corp.,Norway
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Ares Management,United States
 0,Multiple Investors,China
 1,WestCap,United States
 1,TCV,United States
 1,Wellington Management,United States
 0,Crypto.com Capital,Canada
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Accel,United States
 0,Multiple Investors,China
 0,Multiple Investors,Hong Kong
@@ -124,36 +124,36 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 0,Chengtong Mixed Reform,China
 0,Multiple Investors,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Mingde Holdings,China
 0,Ardian,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Glade Brook Capital Partners,Chile
 1,Treasury,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Evolution Equity Partners,United States
 1,Goldman Sachs,United States
 0,Canada Pension Plan Investment Board,United Kingdom
 2,Tiger Global Management,India
 0,Multiple Investors,China
 1,ServiceNow,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Left Lane Capital,United States
 0,Multiple Investors,Malta
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Bain Capital Tech Opportunities,Israel
 2,Serum Life Sciences,India
 1,Intel Capital,United States
 0,Multiple Investors,China
 0,Korelya Capital,The Netherlands
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Valar Ventures,Austria
 1,Moody's Investors Service,United States
 0,Multiple Investors,Mexico
 0,IFC,France
 1,Dongfeng Asset Management,United States
-0,Multiple Investors,India
-1,Multiple Investors,United States
+2,Multiple Investors,India
+3,Multiple Investors,United States
 0,Kingsway Capital,Canada
 1,Goldman Sachs Asset Management,United States
 1,Georgian,United States
@@ -187,13 +187,13 @@ Cluster,Lead Investors Include,Country
 0,SDIC Venture Capital,China
 1,SoftBank Vision Fund,United States
 1,Headline,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Guangzhou Industrial Investment Group,China
 0,Suzhou Xiangcheng Financial Holding Group,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Durable Capital Partners,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,CVS Health Ventures,United States
 2,LeapFrog Investments,India
 1,Oak HC/FT,United States
@@ -212,13 +212,13 @@ Cluster,Lead Investors Include,Country
 0,OKX Ventures,Liechtenstein
 1,SoftBank Vision Fund,United States
 1,Alpha Wave Ventures,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,GIC,United States
 0,Andreessen Horowitz,California
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Durable Capital Partners,United States
 0,ZHEFU Holding,China
-2,Tiger Global Management,Israel
+0,Tiger Global Management,Israel
 1,CapitalG,United States
 0,Everbright-IDG Industrial Fund,China
 0,Orient Securities Capital Investment,China
@@ -227,7 +227,7 @@ Cluster,Lead Investors Include,Country
 1,Alameda Research,United States
 0,G Squared,Germany
 0,Cristiano Ronaldo,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,DST Global,Hong Kong
 1,Coinbase,United States
 1,Greenspring Associates,United States
@@ -236,49 +236,49 @@ Cluster,Lead Investors Include,Country
 0,GGV Capital,Mexico
 1,Blackstone Group,United States
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Tencent,United States
 0,Multiple Investors,Japan
 1,Prysm Capital,United States
 0,Multiple Investors,Canada
 1,Eldridge,United States
 1,Thrive Capital,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Switzerland
 0,Multiple Investors,Canada
 0,Multiple Investors,Mexico
 1,Sequoia Capital,United States
 1,Goldman Sachs Asset Management,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Coatue,Brazil
 0,Multiple Investors,China
 1,Andreessen Horowitz,United States
 0,Multiple Investors,China
 0,Multiple Investors,United Kingdom
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Greenoaks,United States
 1,Ontario Teachers' Pension Plan,United States
 0,Multiple Investors,Singapore
 0,TCV,Norway
 0,Inovia Capital,Canada
-1,Multiple Investors,United States
-0,Multiple Investors,India
-1,Multiple Investors,United States
-0,Multiple Investors,India
+3,Multiple Investors,United States
+2,Multiple Investors,India
+3,Multiple Investors,United States
+2,Multiple Investors,India
 1,Accel,United States
 1,Health Care Service Corporation,United States
 0,Multiple Investors,Belgium
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,US Innovative Technology Fund,United States
 1,SoftBank Vision Fund,United States
 0,Accel,Germany
 1,Tiger Global Management,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,JPMorgan Partners,United Kingdom
 1,Sixth Street,United States
 1,ParaFi Capital,United States
 0,Multiple Investors,United Kingdom
-2,Tiger Global Management,Germany
+0,Tiger Global Management,Germany
 0,Sixth Street,France
 1,Liberty Strategic Capital,United States
 0,Baidu,China
@@ -291,33 +291,33 @@ Cluster,Lead Investors Include,Country
 0,Andbank,Brazil
 1,Tiger Global Management,United States
 1,Tiger Global Management,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,G2 Venture Partners,United States
 0,Multiple Investors,Australia
 1,Andreessen Horowitz,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Carrick Capital Partners,United States
 0,Sinar Mas Group,Indonesia
 0,Coatue,Canada
 2,State Bank of India,India
 1,Wellington Management,United States
 1,Fidelity,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,GS Growth,United States
 1,Altimeter Capital,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,IVP,Germany
 0,Alibaba Group,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Belgium
 1,Kleiner Perkins,United States
 0,Mérieux Equity Partners,France
 1,Eurazeo,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Switzerland
 1,ICONIQ Growth,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 0,Multiple Investors,China
 0,Guangzhou Automobile Group,China
@@ -325,7 +325,7 @@ Cluster,Lead Investors Include,Country
 1,Optum Ventures,United States
 1,Insight Partners,United States
 1,Hexagon,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Accel,China
 0,Industrial Bank,China
 0,Multiple Investors,Brazil
@@ -335,12 +335,12 @@ Cluster,Lead Investors Include,Country
 1,Zeev Ventures,United States
 0,Zeus Entertainment,China
 1,WestCap,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Index Ventures,Turkey
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,Adams Street Partners,United States
 0,D2 Investments,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,57 Stars,India
 1,Caisse de Depot et Placement du Quebec,United States
 0,Multiple Investors,China
@@ -351,17 +351,17 @@ Cluster,Lead Investors Include,Country
 1,D1 Capital Partners,United States
 0,Trustbridge Partners,China
 0,Insight Partners,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Advent International,Brazil
 1,Sequoia Capital China,United States
 0,Multiple Investors,France
 0,G42 Expansion Fund,Indonesia
 1,SoftBank Vision Fund,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,Harmonic Growth Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Siemens Financial Services,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,H Capital Advance,China
 1,Sixth Street,United States
 0,TCV,Australia
@@ -369,13 +369,13 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 0,Multiple Investors,China
 0,Multiple Investors,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Brookfield Growth,United States
 0,Multiple Investors,Sweden
 1,T. Rowe Price,United States
 1,Nordic Capital,United States
 1,BDT & MSD Partners,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,Multiple Investors,Canada
 0,Multiple Investors,China
 1,SoftBank Vision Fund,United States
@@ -383,23 +383,23 @@ Cluster,Lead Investors Include,Country
 0,Wanda E-Commerce,China
 1,SoftBank Vision Fund,United States
 0,China Minsheng Financial Holdings,Israel
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,TPG Growth,United States
 1,Trish Costello,United States
 1,New Enterprise Associates,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Owl Rock Capital,United States
 0,Goldman Sachs Asset Management,France
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
 1,Milano Investment Partners SGR,United States
 1,SoftBank Vision Fund,United States
 1,Temasek Holdings,United States
 0,Multiple Investors,Brazil
 0,Atomico,Spain
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 1,Fidelity Management and Research Company,United States
 0,Conexo Ventures,Portugal
@@ -408,8 +408,8 @@ Cluster,Lead Investors Include,Country
 1,Hamilton Lane,United States
 1,Goldman Sachs,United States
 1,Thoma Bravo,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Alkeon Capital,Israel
 1,AE Industrial Partners,United States
 2,PremjiInvest,India
@@ -431,25 +431,25 @@ Cluster,Lead Investors Include,Country
 1,Andreessen Horowitz,United States
 1,B Capital,United States
 1,WestCap,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
 1,Kora,United States
 1,Tiger Global Management,United States
 0,Disruptive,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Mitsui & Co,United States
 2,MacRitchie Investments,India
 1,TPG Capital Asia,United States
 1,Roche,United States
 0,Accomplice,Canada
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 0,Multiple Investors,China
 1,Permira,United States
 0,Gopher Asset Management,China
 1,Healthcare of Ontario Pension Plan (HOOPP),United States
 0,Guizhou Innovation Empowerment Big Data Investment Fund,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Mubadala,United Arab Emirates
 0,Multiple Investors,China
 0,CCB International,China
@@ -480,15 +480,15 @@ Cluster,Lead Investors Include,Country
 1,Franklin Templeton Investments,United States
 0,Multiple Investors,South Korea
 0,Prosus & Naspers,Austria
-0,SoftBank Vision Fund,United Kingdom
+1,SoftBank Vision Fund,United Kingdom
 0,Goldman Sachs,South Korea
 1,Vista Credit Partners,United States
 0,Hanwha Asset Management,Singapore
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,GIC,United States
 0,Ontario Teachers' Pension Plan,United Kingdom
 1,Andreessen Horowitz,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Earth Venture Capital,United States
 0,Energy Impact Partners,Germany
 2,ICONIQ Growth,India
@@ -499,7 +499,7 @@ Cluster,Lead Investors Include,Country
 1,Wellington Management,United States
 0,Multiple Investors,China
 1,Tiger Global Management,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,General Atlantic,United Kingdom
 0,Multiple Investors,Sweden
 1,Commonwealth Bank of Australia,United States
@@ -508,7 +508,7 @@ Cluster,Lead Investors Include,Country
 0,Capital Today,China
 0,Warburg Pincus,China
 0,Multiple Investors,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Bank of China Group Investment,China
 1,Anthemis Group,United States
 1,Norwest Venture Partners,United States
@@ -520,16 +520,16 @@ Cluster,Lead Investors Include,Country
 1,Hildred Capital Partners,United States
 1,Bain Capital Life Sciences,United States
 1,Sam Altman,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 0,General Catalyst,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 0,Multiple Investors,Israel
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Jump Crypto,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 1,Glynn Capital Management,United States
 0,Multiple Investors,China
@@ -577,15 +577,15 @@ Cluster,Lead Investors Include,Country
 1,Thoma Bravo,United States
 1,Mirae Asset,United States
 0,Multiple Investors,United Kingdom
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,The Carlyle Group,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,FMO,India
 1,Base10 Partners,United States
 1,Insight Partners,United States
 0,Qatar Investment Authority,Germany
 0,Multiple Investors,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,One Equity Partners,United Kingdom
 2,Mars Growth Capital,India
 1,Jump Crypto,United States
@@ -603,7 +603,7 @@ Cluster,Lead Investors Include,Country
 1,Kleiner Perkins,United States
 1,Broadway Angels,United States
 0,Visa,Nigeria
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Spark Capital,United States
 1,Silver Lake Waterman,United States
 1,Schonfeld Strategic Advisors,United States
@@ -639,7 +639,7 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 0,Goldman Sachs,China
 0,Guangzhou Automobile Group,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Tiger Global Management,United States
 0,Hy,South Korea
 0,Anchor Equity Partners,Japan
@@ -653,10 +653,10 @@ Cluster,Lead Investors Include,Country
 1,Sixth Street,United States
 1,QED Investors,United States
 1,Morgan Health,United States
-0,SoftBank Vision Fund,United Arab Emirates
+1,SoftBank Vision Fund,United Arab Emirates
 0,JD.com,China
 1,Coty,United States
-0,SoftBank Vision Fund,Sweden
+1,SoftBank Vision Fund,Sweden
 0,Aspex Management,Hong Kong
 0,Alibaba Group,China
 1,T. Rowe Price,United States
@@ -667,7 +667,7 @@ Cluster,Lead Investors Include,Country
 0,Tybourne Capital Management,Indonesia
 0,Morgan Stanley Tactical Value,South Korea
 0,Multiple Investors,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Mizuho Bank,Indonesia
 0,Multiple Investors,Sweden
 0,Tencent,China
@@ -681,10 +681,10 @@ Cluster,Lead Investors Include,Country
 0,Altana,Israel
 0,GGV Capital,China
 0,Shinsei Bank,Australia
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Lead Edge Capital,United States
 0,Multiple Investors,Canada
-0,Multiple Investors,India
+2,Multiple Investors,India
 2,Westbridge Capital,India
 0,Jinhua Zhongche Fund,China
 0,Chongqing Industry Investment Fund,China
@@ -693,7 +693,7 @@ Cluster,Lead Investors Include,Country
 1,Group1001,United States
 2,Chrys Capital,India
 1,Legacy Knight,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Vanke,China
 0,HOPU Investment Management Company,China
 2,Amansa Capital,India
@@ -706,7 +706,7 @@ Cluster,Lead Investors Include,Country
 2,Kohlberg Kravis Roberts,India
 0,Multiple Investors,United Kingdom
 1,SOFTBANK Latin America Ventures,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Baillie Gifford,Brazil
 0,CapSur Capital,Brazil
 1,T. Rowe Price,United States
@@ -724,7 +724,7 @@ Cluster,Lead Investors Include,Country
 1,SoftBank Vision Fund,United States
 0,Multiple Investors,Brazil
 0,Guizhou Innovation Empowerment Big Data Investment Fund,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,NTT DoCoMo,United States
 0,DST Global,China
 2,Shilpa Shetty,India
@@ -734,7 +734,7 @@ Cluster,Lead Investors Include,Country
 0,Dragoneer Investment Group,France
 0,EQT,United Kingdom
 1,SoftBank,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Anchor Equity Partners,South Korea
 0,Multiple Investors,Canada
 0,Multiple Investors,United Kingdom
@@ -748,21 +748,21 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,Singapore
 1,General Catalyst,United States
 1,Siris Capital Group,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Sino Biopharmaceutical,China
 0,Multiple Investors,France
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,Multiple Investors,China
 0,Multiple Investors,South Korea
 0,Bank of China Group Investment,China
 0,Multiple Investors,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Alpha Wave Global,India
 0,Multiple Investors,Mexico
 1,Coatue,United States
 2,Warburg Pincus,India
 0,Spark Capital,The Netherlands
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Baidu,China
 0,Multiple Investors,China
 0,Multiple Investors,China
@@ -778,10 +778,10 @@ Cluster,Lead Investors Include,Country
 1,Bain Capital Tech Opportunities,United States
 0,Multiple Investors,China
 0,Chimera Investment,Egypt
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Abu Dhabi Investment Authority,India
 2,Legatum,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Volkswagen Group,China
 1,Founders Fund,United States
 1,Altimeter Capital,United States
@@ -797,13 +797,13 @@ Cluster,Lead Investors Include,Country
 0,Abu Dhabi Growth Fund,United Kingdom
 0,Multiple Investors,China
 0,Insight Partners,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 1,Advance Venture Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,United Kingdom
 1,Silver Lake Waterman,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Yao Capital,China
 0,Prosus Ventures,Brazil
 0,Multiple Investors,United Kingdom
@@ -811,11 +811,11 @@ Cluster,Lead Investors Include,Country
 2,Mastercard,India
 0,Binance Labs,Singapore
 0,Multiple Investors,United Kingdom
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Kohlberg Kravis Roberts,South Korea
 1,Coatue,United States
 1,TPG,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,Multiple Investors,Philippines
 1,FTX Ventures,United States
 1,Scytale Digital,United States
@@ -825,19 +825,19 @@ Cluster,Lead Investors Include,Country
 1,SoftBank Vision Fund,United States
 1,Greenoaks,United States
 0,Krafton,South Korea
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Propel VC,Brazil
 1,Bessemer Venture Partners,United States
 1,Morgan Stanley,United States
 1,Founders Fund,United States
 0,Multiple Investors,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Bain Capital,China
 1,Francisco Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Buckley Ventures,United States
 0,Multiple Investors,Canada
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Permira,Switzerland
 1,Goldman Sachs Asset Management,United States
 0,Third Point Ventures,Israel
@@ -848,7 +848,7 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 1,Great Hill Partners,United States
 2,Google,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Silver Lake,United States
 0,Warburg Pincus,Lithuania
 0,Princeville Capital,Chile
@@ -860,17 +860,17 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 1,WestCap,United States
 1,Beyond Net Zero,United States
-0,SoftBank Vision Fund,United Kingdom
+1,SoftBank Vision Fund,United Kingdom
 0,Da Vinci Capital,Luxembourg
 0,Canada Pension Plan Investment Board,United Kingdom
 0,General Atlantic,Belgium
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,Lightspeed Venture Partners,United States
 1,Pobts,United States
 0,Alibaba Group,China
 1,TPG Rise Climate Fund,United States
 0,Bond,South Korea
-0,Multiple Investors,India
+2,Multiple Investors,India
 2,Temasek Holdings,India
 0,Wellington Management,Brazil
 1,Fidelity Management and Research Company,United States
@@ -879,13 +879,13 @@ Cluster,Lead Investors Include,Country
 0,Liberty City Ventures,Germany
 1,D1 Capital Partners,United States
 1,Generation Investment Management,United States
-0,SoftBank Vision Fund,Nigeria
+1,SoftBank Vision Fund,Nigeria
 2,IIFL Finance,India
 1,SoftBank Vision Fund,United States
 1,Georgian,United States
 0,Multiple Investors,Japan
 0,Volvo Group Venture Capital,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Ant Group,China
 1,Lightspeed Venture Partners,United States
 1,Temasek Holdings,United States
@@ -893,28 +893,28 @@ Cluster,Lead Investors Include,Country
 1,Accomplice,United States
 1,Merck,United States
 0,EQT,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Finland
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Kohlberg Kravis Roberts,United States
 0,Multiple Investors,China
 0,Mitsubishi Corporation,United Kingdom
 1,Bristol Myers Squibb,United States
-1,Multiple Investors,United States
-0,Multiple Investors,India
+3,Multiple Investors,United States
+2,Multiple Investors,India
 1,Georgian,United States
 1,SoftBank Vision Fund,United States
 0,Kohlberg Kravis Roberts,United Kingdom
 1,TPG Rise Climate Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Cybernaut Venture Capital,China
 1,SoftBank Vision Fund,United States
 1,Coatue,United States
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,Canada
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Sequoia Capital China,China
 1,Eurazeo,United States
 0,SoftBank Vision Fund,China
@@ -922,7 +922,7 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,Singapore
 1,Knox Lane,United States
 1,Index Ventures,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
 1,MercadoLibre,United States
 0,General Atlantic,France
@@ -931,9 +931,9 @@ Cluster,Lead Investors Include,Country
 2,eBay,India
 1,B Capital,United States
 0,K1 Investment Management,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Founders Fund,United States
 0,Greenoaks,Germany
 0,Multiple Investors,Australia
@@ -941,21 +941,21 @@ Cluster,Lead Investors Include,Country
 1,The Carlyle Group,United States
 2,Vestin Wolf Capital Management,India
 1,B Capital,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Vitruvian Partners,India
 0,Multiple Investors,China
 1,Greenspring Associates,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Goldman Sachs Asset Management,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Michael Margolies,Ireland
 0,Meta,Japan
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Coatue,Denmark
 1,SoftBank Vision Fund,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Y Combinator Continuity Fund,United States
 0,Hellman & Friedman,Canada
 0,DST Global,Hong Kong
@@ -968,12 +968,12 @@ Cluster,Lead Investors Include,Country
 1,Bregal Sagemount,United States
 2,Sequoia Capital,India
 1,Great Hill Partners,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,China Reform Health Management and Services Group Co Ltd,Taiwan
 1,Maersk Growth,United States
 1,Harbin Gloria Pharmaceuticals,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,BlackRock,United States
 1,Maria Sharapova,United States
 2,Abu Dhabi Investment Authority,India
@@ -989,7 +989,7 @@ Cluster,Lead Investors Include,Country
 0,GIC,United Kingdom
 1,Insight Partners,United States
 0,The Carlyle Group,Singapore
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,4equity - Media Ventures,Brazil
 1,General Atlantic,United States
 1,BlackRock Private Equity Partners,United States
@@ -998,22 +998,22 @@ Cluster,Lead Investors Include,Country
 0,Inflexion,United Kingdom
 0,M&G Investments,Germany
 0,FXCM Asia,Japan
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
 0,T. Rowe Price,Colombia
 0,L Catterton,Germany
-0,Multiple Investors,India
+2,Multiple Investors,India
 2,Mando Corporation,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Coatue,United States
 1,Summit Partners,United States
 0,Goldman Sachs Asset Management,Spain
 1,Silver Lake,United States
 1,General Catalyst,United States
 1,Tiger Global Management,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Silver Lake,United States
 1,Fidelity Management and Research Company,United States
 0,Blackstone Group,Finland
@@ -1023,13 +1023,13 @@ Cluster,Lead Investors Include,Country
 1,SoftBank Vision Fund,United States
 1,Craft Ventures,United States
 1,Mubadala,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Sequoia Capital,United States
 0,500 Global,Philippines
 0,GIC,South Korea
 1,Khosla Ventures,United States
 0,Multiple Investors,Croatia
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,ShawSpring Partners,United States
 0,Sofina,Czech Republic
 1,NetDragon,United States
@@ -1057,7 +1057,7 @@ Cluster,Lead Investors Include,Country
 0,General Atlantic,Denmark
 0,Tencent,Germany
 0,Poste Italiane,Italy
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Warburg Pincus,Switzerland
 0,Multiple Investors,China
 0,Qiming Venture Partners,Seychelles
@@ -1072,10 +1072,10 @@ Cluster,Lead Investors Include,Country
 1,Kohlberg Kravis Roberts,United States
 1,Steadfast Financial,United States
 0,Baillie Gifford,Germany
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 2,Times Internet,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,France
 1,Lorient Capital,United States
 1,Bain Capital Ventures,United States
@@ -1086,14 +1086,14 @@ Cluster,Lead Investors Include,Country
 1,Drive Capital,United States
 1,StepStone Group,United States
 0,Sequoia Capital China,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Coatue,United States
 1,Insight Partners,United States
 1,JP Morgan,United States
 1,Owl Rock Capital,United States
 1,Coatue,United States
 0,Google Ventures,Israel
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,ITOCHU Corporation,China
 0,Sino Biopharmaceutical,China
 1,Insight Partners,United States
@@ -1113,22 +1113,22 @@ Cluster,Lead Investors Include,Country
 2,Anand Piramal,India
 1,Tiger Global Management,United States
 1,Sixth Street,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,ServiceNow,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Decisive Capital Management,Germany
 1,Altimeter Capital,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Wellington Management,United States
 0,Multiple Investors,Switzerland
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,SoftBank,France
 0,Ping An Capital,China
 0,Multiple Investors,China
 1,Andreessen Horowitz,United States
 0,Trustbridge Partners,China
-1,Multiple Investors,United States
-2,Tiger Global Management,France
+3,Multiple Investors,United States
+0,Tiger Global Management,France
 0,The Carlyle Group,Japan
 2,Sachin Tendulkar,India
 1,Sapphire Ventures,United States
@@ -1144,14 +1144,14 @@ Cluster,Lead Investors Include,Country
 1,Alkeon Capital,United States
 0,Multiple Investors,Israel
 0,Goldman Sachs,United Kingdom
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Fulcrum Equity Partners,United States
 0,Western Union,Saudi Arabia
 1,Altimeter Capital,United States
 1,Franklin Templeton Investments,United States
 0,Multiple Investors,Israel
 0,Multiple Investors,Mexico
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Coatue,United States
 0,Bain Capital Tech Opportunities,United Kingdom
 1,Group 11,United States
@@ -1161,13 +1161,13 @@ Cluster,Lead Investors Include,Country
 1,BRV Capital Management,United States
 0,SoftBank,France
 1,Sapphire Ventures,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Twilio,United States
 0,Accel,United Kingdom
 1,Permira,United States
 0,CITIC Capital Holdings,China
 0,Wellington Management,United Arab Emirates
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,General Atlantic,United States
 1,Salesforce Ventures,United States
 0,Multiple Investors,China
@@ -1176,10 +1176,10 @@ Cluster,Lead Investors Include,Country
 1,Haun Ventures,United States
 0,Ontario Teachers' Pension Plan,Germany
 0,SK Group,Japan
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Golub Capital,United States
 1,Shining Capital,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,China
 1,Bessemer Venture Partners,United States
 1,Greenoaks,United States
@@ -1189,13 +1189,13 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,Canada
 1,Vision Ridge Capital Partners,United States
 0,Warburg Pincus,China
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Accel,United Kingdom
 0,Temasek Holdings,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,United Kingdom
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Chrysalis Investments,United States
 0,Multiple Investors,Vietnam
 1,Accel,United States
@@ -1206,7 +1206,7 @@ Cluster,Lead Investors Include,Country
 1,Qatar Investment Authority,United States
 0,CITIC Construction Investment,China
 0,Multiple Investors,China
-0,SoftBank Vision Fund,Germany
+1,SoftBank Vision Fund,Germany
 1,Tiger Global Management,United States
 1,Benchmark,United States
 1,G Squared,United States
@@ -1214,23 +1214,23 @@ Cluster,Lead Investors Include,Country
 0,China Merchants Capital,China
 0,Tonic Private Equity,South Korea
 0,Welcome Capital,South Korea
-0,SoftBank Vision Fund,United Kingdom
+1,SoftBank Vision Fund,United Kingdom
 0,Ontario Teachers' Pension Plan,Germany
 1,HSBC,United States
-2,Tiger Global Management,United Kingdom
-1,Multiple Investors,United States
+0,Tiger Global Management,United Kingdom
+3,Multiple Investors,United States
 0,RPMI Railpen,Ireland
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,PTT Oil and Retail Business Public Company,Indonesia
 0,Kinnevik,Spain
 0,Multiple Investors,Singapore
 0,L Catterton Asia,China
 1,GCP Capital Partners,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,DS Asset Management,South Korea
 1,Proxima Media,United States
 0,The Twenty Minute VC,United Kingdom
-2,Tiger Global Management,United Kingdom
+0,Tiger Global Management,United Kingdom
 1,Oak HC/FT,United States
 0,TCV,Canada
 1,Point Break Capital Management,United States
@@ -1239,13 +1239,13 @@ Cluster,Lead Investors Include,Country
 0,Multiple Investors,China
 1,AltaIR Capital,United States
 1,Climate Investment,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Salesforce Ventures,United States
 0,Multiple Investors,Argentina
 1,Greenbriar Equity Group,United States
 2,EvolutionX,India
 1,Bertelsmann,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Temasek Holdings,India
 0,Multiple Investors,Brazil
 1,New Enterprise Associates,United States
@@ -1256,13 +1256,13 @@ Cluster,Lead Investors Include,Country
 1,BlackRock,United States
 1,Pantera Capital,United States
 2,Ronnie Screwvala,India
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,General Catalyst,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Tiger Global Management,India
 1,Baillie Gifford,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,Temasek Holdings,United States
 1,FTV Capital,United States
 0,Jun Lei,China
@@ -1274,21 +1274,21 @@ Cluster,Lead Investors Include,Country
 1,TCV,United States
 2,Orios Venture Partners,India
 0,Qatar Holding,France
-1,Multiple Investors,United States
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Third Point Ventures,United States
 1,GGV Capital,United States
 0,Multiple Investors,Estonia
 1,Google,United States
 1,Alkeon Capital,United States
 0,Macquarie Group,France
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,Multiple Investors,France
 0,Multiple Investors,Israel
 1,83North,United States
 1,TPG,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,EQT,Lithuania
 0,Tencent,China
 1,Tiger Global Management,United States
@@ -1310,8 +1310,8 @@ Cluster,Lead Investors Include,Country
 1,D1 Capital Partners,United States
 1,SoftBank Vision Fund,United States
 0,WANDA Group,China
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Alameda Research,Senegal
 0,Multiple Investors,Ireland
 0,Eclipse Ventures,United Kingdom
@@ -1323,13 +1323,13 @@ Cluster,Lead Investors Include,Country
 1,SoftBank Vision Fund,United States
 0,Squarepoint Capital,Germany
 0,Tencent,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Allianz X,Hong Kong
 0,CCB International,China
 0,IDG Capital,China
 0,China Development Bank Capital,China
 0,Trustbridge Partners,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,SoftBank Vision Fund,United States
 0,Eight Roads Ventures,China
 0,Vulcan Capital,Brazil
@@ -1351,12 +1351,12 @@ Cluster,Lead Investors Include,Country
 0,JD.com,China
 0,Multiple Investors,China
 0,Multiple Investors,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 2,Teachers Venture Growth,India
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,D1 Capital Partners,China
 0,Multiple Investors,The Netherlands
-0,SoftBank Vision Fund,South Korea
+1,SoftBank Vision Fund,South Korea
 0,Tiger Global Management,China
 0,Multiple Investors,China
 0,China CITIC Bank,China
@@ -1369,7 +1369,7 @@ Cluster,Lead Investors Include,Country
 1,Shopify,United States
 0,Multiple Investors,France
 0,Gezhi Asset Management,China
-0,Multiple Investors,India
+2,Multiple Investors,India
 1,a16z crypto,United States
 1,Sapphire Ventures,United States
 0,Multiple Investors,China
@@ -1377,12 +1377,12 @@ Cluster,Lead Investors Include,Country
 0,Matrix Partners China,China
 0,Sequoia Capital China,China
 0,Multiple Investors,China
-1,Multiple Investors,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
+3,Multiple Investors,United States
 0,Multiple Investors,United Kingdom
 1,Oak HC/FT,United States
 1,TPG,United States
-0,Multiple Investors,India
+2,Multiple Investors,India
 0,Farallon Capital Management,United Kingdom
 1,Mastercard,United States
 2,Avenir Growth Capital,India
@@ -1398,11 +1398,11 @@ Cluster,Lead Investors Include,Country
 0,Beijing Taikang Investment,China
 0,eBay Ventures,United Kingdom
 1,Y Combinator,United States
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 0,SoftBank Vision Fund,China
 1,Francisco Partners,United States
 0,Multiple Investors,China
-0,SoftBank Vision Fund,United Kingdom
+1,SoftBank Vision Fund,United Kingdom
 1,Kohlberg Kravis Roberts,United States
 2,SRAM & MRAM,India
 1,Lightspeed Venture Partners,United States
@@ -1412,7 +1412,7 @@ Cluster,Lead Investors Include,Country
 1,Dundon Capital Partners,United States
 1,Canada Pension Plan Investment Board,United States
 0,CICC Capital,China
-1,Multiple Investors,United States
+3,Multiple Investors,United States
 1,Bain Capital Ventures,United States
 0,Multiple Investors,France
 0,Bill & Melinda Gates Foundation,The Netherlands
