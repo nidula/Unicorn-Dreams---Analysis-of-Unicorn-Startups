@@ -15,44 +15,45 @@ enc_country = data["enc_country"]
 enc_industry = data["enc_industry"]
 
 def show_predict_page():
-    st.title("Predict Unicorn Company")
+    import streamlit as st
 
-    st.write("""Enter the country and industry of the company to predict its likelihood of becoming a Unicorn.""")
-    
+    st.title("Predicting the Likelihood of a Business becoming a Unicorn")
+
+    st.write("""Enter the country and industry in which you have a business or are planning to establish to see the results.""")
+
     st.sidebar.title("About")
-    st.sidebar.info("This app predicts the likelihood of a company becoming a Unicorn based on its country and industry.")
+    st.sidebar.info("This machine learning model predicts the likelihood of a company becoming a Unicorn based on the country and industry it is located in since we assume those factors play a vital role in the growth of any business.")
 
     st.sidebar.title("Instructions")
-    st.sidebar.markdown("1. Select the country of the company from the dropdown menu.")
-    st.sidebar.markdown("2. Select the industry of the company from the dropdown menu.")
-    st.sidebar.markdown("3. Click on the 'Predict' button to see the prediction.")
+    st.sidebar.markdown("1. Select the country.")
+    st.sidebar.markdown("2. Select the industry of the business.")
+    st.sidebar.markdown("3. Click on “Predict” to see the results.")
 
     st.sidebar.title("Developed by")
     st.sidebar.info(
         """
-        Hewa Alegodage Nidula Chithwara
+        Hewa Alegodage Nidula Chithwara\n
+        Harsimranjit Kaur\n
+        Noufia Najeeb\n
+        Elson Jacob\n
+        Shraddhaba Bharatsinh Jadeja 
         """
     )
 
-    st.subheader("Input Information")
-    countries = ("China", "United States", "Germany", "India", "Canada",
-                 "Switzerland", "Brazil", "United Kingdom", "Singapore", "Bermuda",
-                 "Israel", "France", "The Netherlands", "Australia", "Finland",
-                 "Indonesia", "Ireland", "Hong Kong", "Thailand", "Norway", "Chile",
-                 "Malta", "Austria", "Mexico", "Estonia", "Spain", "Malaysia", "Liechtenstein",
-                 "California", "Japan", "Belgium", "Poland", "Turkey", "United Arab Emirates",
-                 "Sweden", "Portugal", "Cayman Islands", "South Korea", "Colombia", "Nigeria",
-                 "Ecuador", "Denmark", "Egypt", "Vietnam", "South Africa", "Philippines",
-                 "Lithuania", "Luxembourg", "Taiwan", "Croatia", "Czech Republic", "Italy",
-                 "Seychelles", "Saudi Arabia", "Argentina", "Greece", "Senegal")
 
-    industries = ("Enterprise Tech", "Media & Entertainment", "Industrials",
-                  "Healthcare & Life Sciences", "Financial Services",
-                  "Consumer & Retail", "Insurance", "Food and Beverage",
-                  "Transportation", "Education", "Agricultural")
+    st.subheader("Business Information")
+    countries = ("Argentina", "Australia", "Austria", "Belgium", "Bermuda","Brazil", "California", "Canada", "Cayman Islands", 
+                 "Chile","China", "Colombia", "Croatia", "Czech Republic", "Denmark","Ecuador", "Egypt", "Estonia", "Finland", 
+                 "France","Germany", "Greece", "Hong Kong", "India", "Indonesia","Ireland", "Israel", "Italy", "Japan", "Liechtenstein",
+                 "Lithuania", "Luxembourg", "Malaysia", "Malta", "Mexico","Netherlands", "Nigeria", "Norway", "Philippines", "Poland",
+                 "Portugal", "Saudi Arabia", "Senegal", "Seychelles", "Singapore","South Africa", "South Korea", "Spain", "Sweden", 
+                 "Switzerland","Taiwan", "Thailand", "Turkey", "United Arab Emirates", "United Kingdom","United States", "Vietnam")
 
-    country = st.selectbox("Country", countries)
-    industry = st.selectbox("Industry", industries)
+    industries = ("Agricultural", "Consumer & Retail", "Education", "Enterprise Tech", "Financial Services", "Food and Beverage", 
+                  "Healthcare & Life Sciences", "Industrials", "Insurance", "Media & Entertainment", "Transportation")
+
+    country = st.selectbox("Country of Business", countries)
+    industry = st.selectbox("Industry of Business", industries)
 
     ok = st.button("Predict")
     if ok:
@@ -70,7 +71,7 @@ def show_predict_page():
         elif prediction[0] == 2:
             prediction_category = "High"
     
-        st.subheader(f"The company has a {prediction_category} chance of being a Unicorn")
+        st.subheader(f"Based on the information provided, the business has a {prediction_category} likelihood of becoming a Unicorn according to current market scenarios.")
 
 
 if __name__ == "__main__":
