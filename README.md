@@ -19,7 +19,6 @@ establishment.
   *   ```conda info --envs``` (This will show the environment list. My environment name is 'base')
   *   ```conda activate base``` (Activate the environment name 'base')
   *   If you need to create a new environment run ```conda create --name ml``` 'ml' is the name of the new environment. Then run the code in the second point.
-  *   ```pip install streamlit``` (Make sure Streamlit is installed in your Python environment.)
   *   ```streamlit run app.py``` (After running this the web app will open in the browser.)
 
  ![image](https://github.com/nidula/Unicorn-Dreams---Analysis-of-Unicorn-Startups/assets/46299110/59304154-bd96-404d-bf64-162e02c5b738)
