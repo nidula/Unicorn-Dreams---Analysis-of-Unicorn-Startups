@@ -22,3 +22,6 @@ establishment.
   *   ```pip install streamlit``` (Make sure Streamlit is installed in your Python environment.)
   *   ```streamlit run app.py``` (After running this the web app will open in the browser.)
 
+ ![image](https://github.com/nidula/Unicorn-Dreams---Analysis-of-Unicorn-Startups/assets/46299110/59304154-bd96-404d-bf64-162e02c5b738)
+
+
