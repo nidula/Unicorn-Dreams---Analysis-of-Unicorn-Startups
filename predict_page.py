@@ -3,33 +3,43 @@ import pickle
 import numpy as np
 from sklearn.preprocessing import OneHotEncoder
 
+# Function to load the ML model
 def load_model():
     with open('predict_unicorn_model.pkl', 'rb') as file:
         data = pickle.load(file)
     return data
 
+# Load the model and encoders
 data = load_model()
-
 model_loaded = data["model"]
 enc_country = data["enc_country"]
 enc_industry = data["enc_industry"]
 
+# Add CSS styling to remove padding and margins around the logo
+st.markdown(
+    """
+    <style>
+    .sidebar .sidebar-content {
+        padding: 0px;
+        margin: 0px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+# Function to display the prediction page
 def show_predict_page():
-    import streamlit as st
-
     st.title("Predicting the Likelihood of a Business becoming a Unicorn")
-
     st.write("""Enter the country and industry in which you have a business or are planning to establish to see the results.""")
-
+    st.sidebar.image("logo.png")  # Add the same logo here
     st.sidebar.title("About")
     st.sidebar.info("This machine learning model predicts the likelihood of a company becoming a Unicorn based on the country and industry it is located in since we assume those factors play a vital role in the growth of any business.")
-
     st.sidebar.title("Instructions")
     st.sidebar.markdown("1. Select the country.")
     st.sidebar.markdown("2. Select the industry of the business.")
     st.sidebar.markdown("3. Click on “Predict” to see the results.")
-
-    st.sidebar.title("Developed by")
+    st.sidebar.title("Group Members")
     st.sidebar.info(
         """
         Hewa Alegodage Nidula Chithwara\n
@@ -38,7 +48,7 @@ def show_predict_page():
         Elson Jacob\n
         Shraddhaba Bharatsinh Jadeja 
         """
-    )
+        )
 
 
     st.subheader("Business Information")
@@ -72,7 +82,6 @@ def show_predict_page():
             prediction_category = "High"
     
         st.subheader(f"Based on the information provided, the business has a {prediction_category} likelihood of becoming a Unicorn according to current market scenarios.")
-
 
 if __name__ == "__main__":
     show_predict_page()
