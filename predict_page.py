@@ -75,13 +75,13 @@ def show_predict_page():
         # Mapping prediction values to categories
         prediction_category = ""
         if prediction[0] == 0:
-            prediction_category = "Low"
+            prediction_category = "Low Likelihood"
         elif prediction[0] == 1:
-            prediction_category = "Medium"
+            prediction_category = "Medium likelihood"
         elif prediction[0] == 2:
-            prediction_category = "High"
+            prediction_category = "High likelihood"
     
-        st.subheader(f"Based on the information provided, the business has a {prediction_category} likelihood of becoming a Unicorn according to current market scenarios.")
+        st.write(f"Based on the information provided, the business has a <span style='font-size:40px'>{prediction_category}</span> of becoming a Unicorn according to current market scenarios.", unsafe_allow_html=True)
 
 if __name__ == "__main__":
     show_predict_page()
