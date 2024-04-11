@@ -15,7 +15,7 @@ model_loaded = data["model"]
 enc_country = data["enc_country"]
 enc_industry = data["enc_industry"]
 
-# Add CSS styling to remove padding and margins around the logo
+# Add CSS styling
 st.markdown(
     """
     <style>
@@ -23,6 +23,12 @@ st.markdown(
         padding: 0px;
         margin: 0px;
     }
+    .stApp a:first-child {
+        display: none;
+    }
+    .css-15zrgzn {display: none}
+    .css-eczf16 {display: none}
+    .css-jn99sy {display: none}
     </style>
     """,
     unsafe_allow_html=True
@@ -31,7 +37,7 @@ st.markdown(
 # Function to display the prediction page
 def show_predict_page():
     st.title("Predicting the Likelihood of a Business becoming a Unicorn")
-    st.write("""Enter the country and industry in which you have a business or are planning to establish to see the results.""")
+    st.write("Enter the country and industry in which you have a business or are planning to establish to see the results.")
     st.sidebar.image("logo.png")  # Add the same logo here
     st.sidebar.title("About")
     st.sidebar.info("This machine learning model predicts the likelihood of a company becoming a Unicorn based on the country and industry it is located in since we assume those factors play a vital role in the growth of any business.")
