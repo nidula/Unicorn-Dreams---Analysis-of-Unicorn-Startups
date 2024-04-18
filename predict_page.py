@@ -5,7 +5,7 @@ from sklearn.preprocessing import OneHotEncoder
 
 # Function to load the ML model
 def load_model():
-    with open('predict_unicorn_model.pkl', 'rb') as file:
+    with open('predict_unicorn_model_SVC.pkl', 'rb') as file:
         data = pickle.load(file)
     return data
 
